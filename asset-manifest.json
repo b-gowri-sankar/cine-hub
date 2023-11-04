@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/react-boilerplate-cra-template/static/js/main.af81b8bb.chunk.js",
+    "runtime-main.js": "/react-boilerplate-cra-template/static/js/runtime-main.2c60a19f.js",
+    "static/css/2.e6924ae7.chunk.css": "/react-boilerplate-cra-template/static/css/2.e6924ae7.chunk.css",
+    "static/js/2.69e8d4ba.chunk.js": "/react-boilerplate-cra-template/static/js/2.69e8d4ba.chunk.js",
+    "static/js/3.c814983b.chunk.js": "/react-boilerplate-cra-template/static/js/3.c814983b.chunk.js",
+    "static/js/4.116c879d.chunk.js": "/react-boilerplate-cra-template/static/js/4.116c879d.chunk.js",
+    "static/js/5.39f18522.chunk.js": "/react-boilerplate-cra-template/static/js/5.39f18522.chunk.js",
+    "index.html": "/react-boilerplate-cra-template/index.html",
+    "static/js/2.69e8d4ba.chunk.js.LICENSE.txt": "/react-boilerplate-cra-template/static/js/2.69e8d4ba.chunk.js.LICENSE.txt",
+    "static/media/code-analysis.141f7683.svg": "/react-boilerplate-cra-template/static/media/code-analysis.141f7683.svg",
+    "static/media/cra-logo.9d1c1f39.svg": "/react-boilerplate-cra-template/static/media/cra-logo.9d1c1f39.svg",
+    "static/media/css.a5d1ce5d.svg": "/react-boilerplate-cra-template/static/media/css.a5d1ce5d.svg",
+    "static/media/documentation-icon.29cd96c7.svg": "/react-boilerplate-cra-template/static/media/documentation-icon.29cd96c7.svg",
+    "static/media/github-icon.cc72f095.svg": "/react-boilerplate-cra-template/static/media/github-icon.cc72f095.svg",
+    "static/media/instant-feedback.ab364997.svg": "/react-boilerplate-cra-template/static/media/instant-feedback.ab364997.svg",
+    "static/media/intl.81fc9a57.svg": "/react-boilerplate-cra-template/static/media/intl.81fc9a57.svg",
+    "static/media/new-window.4ade1485.svg": "/react-boilerplate-cra-template/static/media/new-window.4ade1485.svg",
+    "static/media/plus-sign.aab61681.svg": "/react-boilerplate-cra-template/static/media/plus-sign.aab61681.svg",
+    "static/media/route.16ae459b.svg": "/react-boilerplate-cra-template/static/media/route.16ae459b.svg",
+    "static/media/rp-logo.d311896e.svg": "/react-boilerplate-cra-template/static/media/rp-logo.d311896e.svg",
+    "static/media/scaffolding.51006e81.svg": "/react-boilerplate-cra-template/static/media/scaffolding.51006e81.svg",
+    "static/media/seo.6cdb81cc.svg": "/react-boilerplate-cra-template/static/media/seo.6cdb81cc.svg",
+    "static/media/star.f5d524e3.svg": "/react-boilerplate-cra-template/static/media/star.f5d524e3.svg",
+    "static/media/state.025952b0.svg": "/react-boilerplate-cra-template/static/media/state.025952b0.svg",
+    "static/media/ts.523ed1bd.svg": "/react-boilerplate-cra-template/static/media/ts.523ed1bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c60a19f.js",
+    "static/css/2.e6924ae7.chunk.css",
+    "static/js/2.69e8d4ba.chunk.js",
+    "static/js/main.af81b8bb.chunk.js"
+  ]
+}
